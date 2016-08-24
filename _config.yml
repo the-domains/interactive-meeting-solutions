@@ -6,9 +6,9 @@ color:
   saturation: 0.004625662928447127
   rhythmicContrast: 0.5088842264376581
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Interactive Meeting Solutions
